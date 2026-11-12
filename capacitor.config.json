@@ -1,0 +1,10 @@
+{
+  "appId": "id.co.febrylaundry.app",
+  "appName": "FEBRY LAUNDRY",
+  "webDir": "www",
+  "server": {
+    "url": "https://febry-laundry.vercel.app",
+    "cleartext": false,
+    "androidScheme": "https"
+  }
+}
