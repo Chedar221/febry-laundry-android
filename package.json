@@ -1,0 +1,19 @@
+{
+  "name": "febry-laundry-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Android wrapper for FEBRY LAUNDRY website",
+  "scripts": {
+    "cap:sync": "cap sync android",
+    "make:icon": "node scripts/generate-icon.mjs"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/android": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3",
+    "@capacitor/assets": "^3.0.5",
+    "sharp": "^0.34.3"
+  }
+}
