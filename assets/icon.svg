@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
-<rect width="1024" height="1024" rx="220" fill="#0f766e"/>
-<rect x="225" y="150" width="574" height="724" rx="76" fill="#f0fdfa"/>
-<rect x="275" y="205" width="474" height="115" rx="32" fill="#ccfbf1"/>
-<circle cx="338" cy="263" r="17" fill="#0f766e"/>
-<circle cx="395" cy="263" r="17" fill="#0f766e"/>
-<circle cx="452" cy="263" r="17" fill="#0f766e"/>
-<circle cx="512" cy="574" r="205" fill="#0f766e"/>
-<circle cx="512" cy="574" r="155" fill="#99f6e4"/>
-<path d="M405 585c55-115 166-115 221 0-55 115-166 115-221 0Z" fill="#0f766e"/>
-<path d="M454 584c30-55 86-55 116 0-30 55-86 55-116 0Z" fill="#ccfbf1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="242" fill="#fff" stroke="#111" stroke-width="8"/>
+<circle cx="256" cy="256" r="218" fill="#050505" stroke="#fff" stroke-width="18"/>
+<g fill="#fff"><path d="M111 108l13-21 13 21 21 13-21 13-13 21-13-21-21-13zM158 142l9-15 9 15 15 9-15 9-9 15-9-15-15-9z"/><circle cx="365" cy="104" r="11"/><circle cx="393" cy="134" r="18"/><circle cx="346" cy="144" r="8"/><circle cx="111" cy="315" r="13"/><circle cx="145" cy="350" r="17"/><circle cx="394" cy="309" r="10"/><circle cx="407" cy="344" r="18"/></g>
+<path d="M256 78c-22 0-32 17-32 31 0 13 10 23 22 25v20h20v-20c13-4 22-14 22-26 0-17-13-30-32-30z" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+<path d="M256 151l-70 35 70 25 70-25z" fill="#fff"/>
+<path d="M183 190l-70 30 25 83 44-23-12 72c-3 38 24 62 86 62s89-24 86-62l-12-72 44 23 25-83-70-30-45 26h-56z" fill="#fff"/>
+<path d="M220 209q36 36 72 0" fill="#050505"/>
+<g fill="#050505"><circle cx="205" cy="272" r="7"/><circle cx="220" cy="291" r="10"/><circle cx="238" cy="270" r="6"/><circle cx="293" cy="270" r="6"/><circle cx="312" cy="290" r="10"/><circle cx="330" cy="272" r="7"/></g>
+<path d="M170 350q80 55 170 0M190 374q65 38 130 0" fill="none" stroke="#050505" stroke-width="12" stroke-linecap="round"/>
+<defs><path id="arc" d="M88 285 A174 174 0 0 0 424 285"/></defs>
+<text fill="#fff" font-family="Arial,sans-serif" font-size="35" font-weight="900" letter-spacing="2"><textPath href="#arc" startOffset="5%">FEBRY LAUNDRY</textPath></text>
 </svg>
